@@ -1,7 +1,8 @@
 # Multi Step Form developed using React JS
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-multi-step-form/src/images/screenshot.PNG "Multi Step Form")
-
+<div>
+<img align="right" width="100%"  src="./src/images/screenshot.PNG" />
+</div>
 
 [Live Demo](https://praveen-multi-step-form.firebaseapp.com/)
 
